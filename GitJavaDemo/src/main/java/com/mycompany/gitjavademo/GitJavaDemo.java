@@ -12,7 +12,7 @@ package com.mycompany.gitjavademo;
 public class GitJavaDemo {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello World...!");
 	  System.out.println("Bol Mahakal Baba ki Jay!");
     }
 }
